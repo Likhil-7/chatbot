@@ -1,0 +1,331 @@
+What is Data Science?
+Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights which analysts and business users can translate into tangible business value.
+
+Why Data Science is Important?
+More and more companies are coming to realize the importance of data science, AI, and machine learning. Regardless of industry or size, organizations that wish to remain competitive in the age of big data need to efficiently develop and implement data science capabilities or risk being left behind.
+
+Data Science + DataRobot
+Ramping up data science efforts is difficult even for companies with near-unlimited resources. The DataRobot AI Cloud Platform democratizes data science and AI, enabling analysts, business users, and other technical professionals to become Citizen Data Scientists and AI Engineers, in addition to making data scientists more productive. It automates repetitive modeling tasks that once occupied the vast majority of data scientists’ time and brainpower. DataRobot bridges the gap between data scientists and the rest of the organization, making enterprise machine learning more accessible than ever.
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[4][5]
+
+A data scientist is someone who creates programming code, and combines it with statistical knowledge to create insights from data.[6]
+
+
+Contents
+1	Foundations
+1.1	Relationship to statistics
+2	Etymology
+2.1	Early usage
+2.2	Modern usage
+3	Market
+4	Technologies and techniques
+4.1	Techniques
+5	See also
+6	References
+Foundations
+Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains.[7] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, information visualization, data integration, graphic design, complex systems, communication and business.[8][9] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[10][11] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[12]
+
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[13] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[14] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.[15] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[16] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program. He describes data science as an applied field growing out of traditional statistics.[17] In summary, data science can be therefore described as an applied branch of statistics.
+
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[17] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C.F. Jeff Wu used the term Data Science for the first time as an alternative name for statistics.[18] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[19][20]
+
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[21] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[21] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C.F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[22] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[20]
+
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[23][21]
+
+Modern usage
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[24] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[23] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[23] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[25]
+
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[26] Though it was used by the National Science Board in their 2005 report, "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century," it referred broadly to any key role in managing a digital data collection.[27]
+
+There is still no consensus on the definition of data science and it is considered by some to be a buzzword.[28]
+
+Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.[1] Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.[2] In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.[3]
+
+Data mining is a particular data analysis technique that focuses on statistical modelling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information.[4] In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA).[5] EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses.[6][7] Predictive analytics focuses on the application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.[8]
+
+Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination.[9]
+
+
+Contents
+1	The process of data analysis
+1.1	Data requirements
+1.2	Data collection
+1.3	Data processing
+1.4	Data cleaning
+1.5	Exploratory data analysis
+1.6	Modelling and algorithms
+1.7	Data product
+1.8	Communication
+2	Quantitative messages
+3	Techniques for analyzing quantitative data
+4	Analytical activities of data users
+5	Barriers to effective analysis
+5.1	Confusing fact and opinion
+5.2	Cognitive biases
+5.3	Innumeracy
+6	Other topics
+6.1	Smart buildings
+6.2	Analytics and business intelligence
+6.3	Education
+7	Practitioner notes
+7.1	Initial data analysis
+7.1.1	Quality of data
+7.1.2	Quality of measurements
+7.1.3	Initial transformations
+7.1.4	Did the implementation of the study fulfill the intentions of the research design?
+7.1.5	Characteristics of data sample
+7.1.6	Final stage of the initial data analysis
+7.1.7	Analysis
+7.1.8	Nonlinear analysis
+7.2	Main data analysis
+7.2.1	Exploratory and confirmatory approaches
+7.2.2	Stability of results
+8	Free software for data analysis
+9	International data analysis contests
+10	See also
+11	References
+11.1	Citations
+11.2	Bibliography
+12	Further reading
+The process of data analysis
+
+Data science process flowchart from Doing Data Science, by Schutt & O'Neil (2013)
+Analysis, refers to dividing a whole into its separate components for individual examination.[10] Data analysis, is a process for obtaining raw data, and subsequently converting it into information useful for decision-making by users.[1] Data, is collected and analyzed to answer questions, test hypotheses, or disprove theories.[11]
+
+Statistician John Tukey, defined data analysis in 1961, as:
+
+"Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data."[12]
+
+There are several phases that can be distinguished, described below. The phases are iterative, in that feedback from later phases may result in additional work in earlier phases.[13] The CRISP framework, used in data mining, has similar steps.
+
+Data requirements
+The data is necessary as inputs to the analysis, which is specified based upon the requirements of those directing the analysis (or customers, who will use the finished product of the analysis).[14][15] The general type of entity upon which the data will be collected is referred to as an experimental unit (e.g., a person or population of people). Specific variables regarding a population (e.g., age and income) may be specified and obtained. Data may be numerical or categorical (i.e., a text label for numbers).[13]
+
+Data collection
+Data is collected from a variety of sources.[16][17] The requirements may be communicated by analysts to custodians of the data; such as, Information Technology personnel within an organization.[18] The data may also be collected from sensors in the environment, including traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation.[13]
+
+Data processing
+
+The phases of the intelligence cycle used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis.
+Data, when initially obtained, must be processed or organized for analysis.[19][20] For instance, these may involve placing data into rows and columns in a table format (known as structured data) for further analysis, often through the use of spreadsheet or statistical software.[13]
+
+Data cleaning
+Main article: Data cleansing
+Once processed and organized, the data may be incomplete, contain duplicates, or contain errors.[21][22] The need for data cleaning will arise from problems in the way that the datum are entered and stored.[21] Data cleaning is the process of preventing and correcting these errors. Common tasks include record matching, identifying inaccuracy of data, overall quality of existing data, deduplication, and column segmentation.[23] Such data problems can also be identified through a variety of analytical techniques. For example; with financial information, the totals for particular variables may be compared against separately published numbers that are believed to be reliable.[24][25] Unusual amounts, above or below predetermined thresholds, may also be reviewed. There are several types of data cleaning, that are dependent upon the type of data in the set; this could be phone numbers, email addresses, employers, or other values.[26][27] Quantitative data methods for outlier detection, can be used to get rid of data that appears to have a higher likelihood of being input incorrectly.[28] Textual data spell checkers can be used to lessen the amount of mis-typed words. However, it is harder to tell if the words themselves are correct.[29]
+
+Exploratory data analysis
+Once the datasets are cleaned, they can then be analyzed. Analysts may apply a variety of techniques, referred to as exploratory data analysis, to begin understanding the messages contained within the obtained data.[30] The process of data exploration may result in additional data cleaning or additional requests for data; thus, the initialization of the iterative phases mentioned in the lead paragraph of this section.[31] Descriptive statistics, such as, the average or median, can be generated to aid in understanding the data.[32][33] Data visualization is also a technique used, in which the analyst is able to examine the data in a graphical format in order to obtain additional insights, regarding the messages within the data.[13]
+
+Modelling and algorithms
+Mathematical formulas or models (known as algorithms), may be applied to the data in order to identify relationships among the variables; for example, using correlation or causation.[34][35] In general terms, models may be developed to evaluate a specific variable based on other variable(s) contained within the dataset, with some residual error depending on the implemented model's accuracy (e.g., Data = Model + Error).[36][11]
+
+Inferential statistics, includes utilizing techniques that measure the relationships between particular variables.[37] For example, regression analysis may be used to model whether a change in advertising (independent variable X), provides an explanation for the variation in sales (dependent variable Y).[38] In mathematical terms, Y (sales) is a function of X (advertising).[39] It may be described as (Y = aX + b + error), where the model is designed such that (a) and (b) minimize the error when the model predicts Y for a given range of values of X.[40] Analysts may also attempt to build models that are descriptive of the data, in an aim to simplify analysis and communicate results.[11]
+
+Data product
+A data product is a computer application that takes data inputs and generates outputs, feeding them back into the environment.[41] It may be based on a model or algorithm. For instance, an application that analyzes data about customer purchase history, and uses the results to recommend other purchases the customer might enjoy.[42][13]
+
+Communication
+
+Data visualization is used to help understand the results after data is analyzed.[43]
+Main article: Data visualization
+Once data is analyzed, it may be reported in many formats to the users of the analysis to support their requirements.[44] The users may have feedback, which results in additional analysis. As such, much of the analytical cycle is iterative.[13]
+
+When determining how to communicate the results, the analyst may consider implementing a variety of data visualization techniques to help communicate the message more clearly and efficiently to the audience.[45] Data visualization uses information displays (graphics such as, tables and charts) to help communicate key messages contained in the data.[46] Tables are a valuable tool by enabling the ability of a user to query and focus on specific numbers; while charts (e.g., bar charts or line charts), may help explain the quantitative messages contained in the data.[47]
+
+Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields (columns) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[2] Big data analysis challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy, and data source. Big data was originally associated with three key concepts: volume, variety, and velocity.[3] The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.
+
+Current usage of the term big data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. "There is little doubt that the quantities of data now available are indeed large, but that's not the most relevant characteristic of this new data ecosystem."[4] Analysis of data sets can find new correlations to "spot business trends, prevent diseases, combat crime and so on".[5] Scientists, business executives, medical practitioners, advertising and governments alike regularly meet difficulties with large data-sets in areas including Internet searches, fintech, healthcare analytics, geographic information systems, urban informatics, and business informatics. Scientists encounter limitations in e-Science work, including meteorology, genomics,[6] connectomics, complex physics simulations, biology, and environmental research.[7]
+
+The size and number of available data sets have grown rapidly as data is collected by devices such as mobile devices, cheap and numerous information-sensing Internet of things devices, aerial (remote sensing), software logs, cameras, microphones, radio-frequency identification (RFID) readers and wireless sensor networks.[8][9] The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s;[10] as of 2012, every day 2.5 exabytes (2.5×260 bytes) of data are generated.[11] Based on an IDC report prediction, the global data volume was predicted to grow exponentially from 4.4 zettabytes to 44 zettabytes between 2013 and 2020. By 2025, IDC predicts there will be 163 zettabytes of data.[12] One question for large enterprises is determining who should own big-data initiatives that affect the entire organization.[13]
+
+Relational database management systems and desktop statistical software packages used to visualize data often have difficulty processing and analyzing big data. The processing and analysis of big data may require "massively parallel software running on tens, hundreds, or even thousands of servers".[14] What qualifies as "big data" varies depending on the capabilities of those analyzing it and their tools. Furthermore, expanding capabilities make big data a moving target. "For some organizations, facing hundreds of gigabytes of data for the first time may trigger a need to reconsider data management options. For others, it may take tens or hundreds of terabytes before data size becomes a significant consideration."[15]
+
+
+Contents
+1	Definition
+1.1	Big data vs. business intelligence
+2	Characteristics
+3	Architecture
+4	Technologies
+5	Applications
+5.1	Government
+5.2	International development
+5.2.1	Benefits
+5.2.2	Challenges
+5.3	Healthcare
+5.4	Education
+5.5	Media
+5.6	Insurance
+5.7	Internet of things (IoT)
+5.8	Information technology
+6	Case studies
+6.1	Government
+6.1.1	China
+6.1.2	India
+6.1.3	Israel
+6.1.4	United Kingdom
+6.1.5	United States
+6.2	Retail
+6.3	Science
+6.4	Sports
+6.5	Technology
+6.6	COVID-19
+7	Research activities
+7.1	Sampling big data
+8	Critique
+8.1	Critiques of the big data paradigm
+8.2	Critiques of the "V" model
+8.3	Critiques of novelty
+8.4	Critiques of big data execution
+8.5	Critiques of big data policing and surveillance
+9	In popular culture
+9.1	Books
+9.2	Film
+10	See also
+11	References
+12	Further reading
+13	External links
+Definition
+The term big data has been in use since the 1990s, with some giving credit to John Mashey for popularizing the term.[16][17] Big data usually includes data sets with sizes beyond the ability of commonly used software tools to capture, curate, manage, and process data within a tolerable elapsed time.[18] Big data philosophy encompasses unstructured, semi-structured and structured data, however the main focus is on unstructured data.[19] Big data "size" is a constantly moving target; as of 2012 ranging from a few dozen terabytes to many zettabytes of data.[20] Big data requires a set of techniques and technologies with new forms of integration to reveal insights from data-sets that are diverse, complex, and of a massive scale.[21]
+
+"Variety", "veracity", and various other "Vs" are added by some organizations to describe it, a revision challenged by some industry authorities.[22] The Vs of big data were often referred to as the "three Vs", "four Vs", and "five Vs". They represented the qualities of big data in volume, variety, velocity, veracity, and value.[3] Variability is often included as an additional quality of big data.
+
+A 2018 definition states "Big data is where parallel computing tools are needed to handle data", and notes, "This represents a distinct and clearly defined change in the computer science used, via parallel programming theories, and losses of some of the guarantees and capabilities made by Codd's relational model."[23]
+
+In a comparative study of big datasets, Kitchin and McArdle found that none of the commonly considered characteristics of big data appear consistently across all of the analyzed cases.[24] For this reason, other studies identified the redefinition of power dynamics in knowledge discovery as the defining trait.[25] Instead of focusing on intrinsic characteristics of big data, this alternative perspective pushes forward a relational understanding of the object claiming that what matters is the way in which data is collected, stored, made available and analyzed.
+
+Big data vs. business intelligence
+The growing maturity of the concept more starkly delineates the difference between "big data" and "business intelligence":[26]
+
+Business intelligence uses applied mathematics tools and descriptive statistics with data with high information density to measure things, detect trends, etc.
+Big data uses mathematical analysis, optimization, inductive statistics, and concepts from nonlinear system identification[27] to infer laws (regressions, nonlinear relationships, and causal effects) from large sets of data with low information density[28] to reveal relationships and dependencies, or to perform predictions of outcomes and behaviors.[27][29][promotional source?]
+Characteristics
+
+Shows the growth of big data's primary characteristics of volume, velocity, and variety
+Big data can be described by the following characteristics:
+
+Volume
+The quantity of generated and stored data. The size of the data determines the value and potential insight, and whether it can be considered big data or not. The size of big data is usually larger than terabytes and petabytes.[30]
+Variety
+The type and nature of the data. The earlier technologies like RDBMSs were capable to handle structured data efficiently and effectively. However, the change in type and nature from structured to semi-structured or unstructured challenged the existing tools and technologies. The big data technologies evolved with the prime intention to capture, store, and process the semi-structured and unstructured (variety) data generated with high speed (velocity), and huge in size (volume). Later, these tools and technologies were explored and used for handling structured data also but preferable for storage. Eventually, the processing of structured data was still kept as optional, either using big data or traditional RDBMSs. This helps in analyzing data towards effective usage of the hidden insights exposed from the data collected via social media, log files, sensors, etc. Big data draws from text, images, audio, video; plus it completes missing pieces through data fusion.
+Velocity
+The speed at which the data is generated and processed to meet the demands and challenges that lie in the path of growth and development. Big data is often available in real-time. Compared to small data, big data is produced more continually. Two kinds of velocity related to big data are the frequency of generation and the frequency of handling, recording, and publishing.[31]
+Veracity
+The truthfulness or reliability of the data, which refers to the data quality and the data value.[32] Big data must not only be large in size, but also must be reliable in order to achieve value in the analysis of it. The data quality of captured data can vary greatly, affecting an accurate analysis.[33]
+Value
+The worth in information that can be achieved by the processing and analysis of large datasets. Value also can be measured by an assessment of the other qualities of big data.[34] Value may also represent the profitability of information that is retrieved from the analysis of big data.
+Variability
+The characteristic of the changing formats, structure, or sources of big data. Big data can include structured, unstructured, or combinations of structured and unstructured data. Big data analysis may integrate raw data from multiple sources. The processing of raw data may also involve transformations of unstructured data to structured data.
+Other possible characteristics of big data are:[35]
+
+Exhaustive
+Whether the entire system (i.e., {\textstyle n}{\textstyle n}=all) is captured or recorded or not. Big data may or may not include all the available data from sources.
+Fine-grained and uniquely lexical
+Respectively, the proportion of specific data of each element per element collected and if the element and its characteristics are properly indexed or identified.
+Relational
+If the data collected contains common fields that would enable a conjoining, or meta-analysis, of different data sets.
+Extensional
+If new fields in each element of the data collected can be added or changed easily.
+Scalability
+If the size of the big data storage system can expand rapidly.
+Architecture
+Big data repositories have existed in many forms, often built by corporations with a special need. Commercial vendors historically offered parallel database management systems for big data beginning in the 1990s. For many years, WinterCorp published the largest database report.[36][promotional source?]
+
+Teradata Corporation in 1984 marketed the parallel processing DBC 1012 system. Teradata systems were the first to store and analyze 1 terabyte of data in 1992. Hard disk drives were 2.5 GB in 1991 so the definition of big data continuously evolves. Teradata installed the first petabyte class RDBMS based system in 2007. As of 2017, there are a few dozen petabyte class Teradata relational databases installed, the largest of which exceeds 50 PB. Systems up until 2008 were 100% structured relational data. Since then, Teradata has added unstructured data types including XML, JSON, and Avro.
+
+In 2000, Seisint Inc. (now LexisNexis Risk Solutions) developed a C++-based distributed platform for data processing and querying known as the HPCC Systems platform. This system automatically partitions, distributes, stores and delivers structured, semi-structured, and unstructured data across multiple commodity servers. Users can write data processing pipelines and queries in a declarative dataflow programming language called ECL. Data analysts working in ECL are not required to define data schemas upfront and can rather focus on the particular problem at hand, reshaping data in the best possible manner as they develop the solution. In 2004, LexisNexis acquired Seisint Inc.[37] and their high-speed parallel processing platform and successfully used this platform to integrate the data systems of Choicepoint Inc. when they acquired that company in 2008.[38] In 2011, the HPCC systems platform was open-sourced under the Apache v2.0 License.
+
+CERN and other physics experiments have collected big data sets for many decades, usually analyzed via high-throughput computing rather than the map-reduce architectures usually meant by the current "big data" movement.
+
+In 2004, Google published a paper on a process called MapReduce that uses a similar architecture. The MapReduce concept provides a parallel processing model, and an associated implementation was released to process huge amounts of data. With MapReduce, queries are split and distributed across parallel nodes and processed in parallel (the "map" step). The results are then gathered and delivered (the "reduce" step). The framework was very successful,[39] so others wanted to replicate the algorithm. Therefore, an implementation of the MapReduce framework was adopted by an Apache open-source project named "Hadoop".[40] Apache Spark was developed in 2012 in response to limitations in the MapReduce paradigm, as it adds the ability to set up many operations (not just map followed by reducing).
+
+MIKE2.0 is an open approach to information management that acknowledges the need for revisions due to big data implications identified in an article titled "Big Data Solution Offering".[41] The methodology addresses handling big data in terms of useful permutations of data sources, complexity in interrelationships, and difficulty in deleting (or modifying) individual records.[42]
+
+Studies in 2012 showed that a multiple-layer architecture was one option to address the issues that big data presents. A distributed parallel architecture distributes data across multiple servers; these parallel execution environments can dramatically improve data processing speeds. This type of architecture inserts data into a parallel DBMS, which implements the use of MapReduce and Hadoop frameworks. This type of framework looks to make the processing power transparent to the end-user by using a front-end application server.[43]
+
+The data lake allows an organization to shift its focus from centralized control to a shared model to respond to the changing dynamics of information management. This enables quick segregation of data into the data lake, thereby reducing the overhead time.[44][45]
+
+Technologies
+A 2011 McKinsey Global Institute report characterizes the main components and ecosystem of big data as follows:[46]
+
+Techniques for analyzing data, such as A/B testing, machine learning, and natural language processing
+Big data technologies, like business intelligence, cloud computing, and databases
+Visualization, such as charts, graphs, and other displays of the data
+Multidimensional big data can also be represented as OLAP data cubes or, mathematically, tensors. Array database systems have set out to provide storage and high-level query support on this data type. Additional technologies being applied to big data include efficient tensor-based computation,[47] such as multilinear subspace learning,[48] massively parallel-processing (MPP) databases, search-based applications, data mining,[49] distributed file systems, distributed cache (e.g., burst buffer and Memcached), distributed databases, cloud and HPC-based infrastructure (applications, storage and computing resources),[50] and the Internet.[citation needed] Although, many approaches and technologies have been developed, it still remains difficult to carry out machine learning with big data.[51]
+
+Some MPP relational databases have the ability to store and manage petabytes of data. Implicit is the ability to load, monitor, back up, and optimize the use of the large data tables in the RDBMS.[52][promotional source?]
+
+DARPA's Topological Data Analysis program seeks the fundamental structure of massive data sets and in 2008 the technology went public with the launch of a company called "Ayasdi".[53][third-party source needed]
+
+The practitioners of big data analytics processes are generally hostile to slower shared storage,[54] preferring direct-attached storage (DAS) in its various forms from solid state drive (SSD) to high capacity SATA disk buried inside parallel processing nodes. The perception of shared storage architectures—storage area network (SAN) and network-attached storage (NAS)— is that they are relatively slow, complex, and expensive. These qualities are not consistent with big data analytics systems that thrive on system performance, commodity infrastructure, and low cost.
+
+Real or near-real-time information delivery is one of the defining characteristics of big data analytics. Latency is therefore avoided whenever and wherever possible. Data in direct-attached memory or disk is good—data on memory or disk at the other end of an FC SAN connection is not. The cost of an SAN at the scale needed for analytics applications is much higher than other storage techniques.
+
+Applications
+
+Bus wrapped with SAP big data parked outside IDF13.
+Big data has increased the demand of information management specialists so much so that Software AG, Oracle Corporation, IBM, Microsoft, SAP, EMC, HP, and Dell have spent more than $15 billion on software firms specializing in data management and analytics. In 2010, this industry was worth more than $100 billion and was growing at almost 10 percent a year: about twice as fast as the software business as a whole.[5]
+
+Developed economies increasingly use data-intensive technologies. There are 4.6 billion mobile-phone subscriptions worldwide, and between 1 billion and 2 billion people accessing the internet.[5] Between 1990 and 2005, more than 1 billion people worldwide entered the middle class, which means more people became more literate, which in turn led to information growth. The world's effective capacity to exchange information through telecommunication networks was 281 petabytes in 1986, 471 petabytes in 1993, 2.2 exabytes in 2000, 65 exabytes in 2007[10] and predictions put the amount of internet traffic at 667 exabytes annually by 2014.[5] According to one estimate, one-third of the globally stored information is in the form of alphanumeric text and still image data,[55] which is the format most useful for most big data applications. This also shows the potential of yet unused data (i.e. in the form of video and audio content).
+
+While many vendors offer off-the-shelf products for big data, experts promote the development of in-house custom-tailored systems if the company has sufficient technical capabilities.[56]
+
+Government
+The use and adoption of big data within governmental processes allows efficiencies in terms of cost, productivity, and innovation,[57] but does not come without its flaws. Data analysis often requires multiple parts of government (central and local) to work in collaboration and create new and innovative processes to deliver the desired outcome. A common government organization that makes use of big data is the National Security Administration (NSA), which monitors the activities of the Internet constantly in search for potential patterns of suspicious or illegal activities their system may pick up.
+
+Civil registration and vital statistics (CRVS) collects all certificates status from birth to death. CRVS is a source of big data for governments.
+
+International development
+Research on the effective usage of information and communication technologies for development (also known as "ICT4D") suggests that big data technology can make important contributions but also present unique challenges to international development.[58][59] Advancements in big data analysis offer cost-effective opportunities to improve decision-making in critical development areas such as health care, employment, economic productivity, crime, security, and natural disaster and resource management.[60][61][62] Additionally, user-generated data offers new opportunities to give the unheard a voice.[63] However, longstanding challenges for developing regions such as inadequate technological infrastructure and economic and human resource scarcity exacerbate existing concerns with big data such as privacy, imperfect methodology, and interoperability issues.[60] The challenge of "big data for development"[60] is currently evolving toward the application of this data through machine learning, known as "artificial intelligence for development (AI4D).[64]
+
+Benefits
+A major practical application of big data for development has been "fighting poverty with data".[65] In 2015, Blumenstock and colleagues estimated predicted poverty and wealth from mobile phone metadata [66] and in 2016 Jean and colleagues combined satellite imagery and machine learning to predict poverty.[67] Using digital trace data to study the labor market and the digital economy in Latin America, Hilbert and colleagues [68][69] argue that digital trace data has several benefits such as:
+
+Thematic coverage: including areas that were previously difficult or impossible to measure
+Geographical coverage: our international sources provided sizable and comparable data for almost all countries, including many small countries that usually are not included in international inventories
+Level of detail: providing fine-grained data with many interrelated variables, and new aspects, like network connections
+Timeliness and timeseries: graphs can be produced within days of being collected
+Challenges
+At the same time, working with digital trace data instead of traditional survey data does not eliminate the traditional challenges involved when working in the field of international quantitative analysis. Priorities change, but the basic discussions remain the same. Among the main challenges are:
+
+Representativeness. While traditional development statistics is mainly concerned with the representativeness of random survey samples, digital trace data is never a random sample.[70]
+Generalizability. While observational data always represents this source very well, it only represents what it represents, and nothing more. While it is tempting to generalize from specific observations of one platform to broader settings, this is often very deceptive.
+Harmonization. Digital trace data still requires international harmonization of indicators. It adds the challenge of so-called "data-fusion", the harmonization of different sources.
+Data overload. Analysts and institutions are not used to effectively deal with a large number of variables, which is efficiently done with interactive dashboards. Practitioners still lack a standard workflow that would allow researchers, users and policymakers to efficiently and effectively.[68]
+Healthcare
+Big data analytics was used in healthcare by providing personalized medicine and prescriptive analytics, clinical risk intervention and predictive analytics, waste and care variability reduction, automated external and internal reporting of patient data, standardized medical terms and patient registries.[71][72][73][74] Some areas of improvement are more aspirational than actually implemented. The level of data generated within healthcare systems is not trivial. With the added adoption of mHealth, eHealth and wearable technologies the volume of data will continue to increase. This includes electronic health record data, imaging data, patient generated data, sensor data, and other forms of difficult to process data. There is now an even greater need for such environments to pay greater attention to data and information quality.[75] "Big data very often means 'dirty data' and the fraction of data inaccuracies increases with data volume growth." Human inspection at the big data scale is impossible and there is a desperate need in health service for intelligent tools for accuracy and believability control and handling of information missed.[76] While extensive information in healthcare is now electronic, it fits under the big data umbrella as most is unstructured and difficult to use.[77] The use of big data in healthcare has raised significant ethical challenges ranging from risks for individual rights, privacy and autonomy, to transparency and trust.[78]
+
+Big data in health research is particularly promising in terms of exploratory biomedical research, as data-driven analysis can move forward more quickly than hypothesis-driven research.[79] Then, trends seen in data analysis can be tested in traditional, hypothesis-driven follow up biological research and eventually clinical research.
+
+A related application sub-area, that heavily relies on big data, within the healthcare field is that of computer-aided diagnosis in medicine. [80] For instance, for epilepsy monitoring it is customary to create 5 to 10 GB of data daily. [81] Similarly, a single uncompressed image of breast tomosynthesis averages 450 MB of data. [82] These are just a few of the many examples where computer-aided diagnosis uses big data. For this reason, big data has been recognized as one of the seven key challenges that computer-aided diagnosis systems need to overcome in order to reach the next level of performance. [83]
+
+Education
+A McKinsey Global Institute study found a shortage of 1.5 million highly trained data professionals and managers[46] and a number of universities[84][better source needed] including University of Tennessee and UC Berkeley, have created masters programs to meet this demand. Private boot camps have also developed programs to meet that demand, including free programs like The Data Incubator or paid programs like General Assembly.[85] In the specific field of marketing, one of the problems stressed by Wedel and Kannan[86] is that marketing has several sub domains (e.g., advertising, promotions, product development, branding) that all use different types of data.
+
+Media
+To understand how the media uses big data, it is first necessary to provide some context into the mechanism used for media process. It has been suggested by Nick Couldry and Joseph Turow that practitioners in media and advertising approach big data as many actionable points of information about millions of individuals. The industry appears to be moving away from the traditional approach of using specific media environments such as newspapers, magazines, or television shows and instead taps into consumers with technologies that reach targeted people at optimal times in optimal locations. The ultimate aim is to serve or convey, a message or content that is (statistically speaking) in line with the consumer's mindset. For example, publishing environments are increasingly tailoring messages (advertisements) and content (articles) to appeal to consumers that have been exclusively gleaned through various data-mining activities.[87]
+
+Targeting of consumers (for advertising by marketers)[88]
+Data capture
+Data journalism: publishers and journalists use big data tools to provide unique and innovative insights and infographics.
+Channel 4, the British public-service television broadcaster, is a leader in the field of big data and data analysis.[89]
+
+Insurance
+Health insurance providers are collecting data on social "determinants of health" such as food and TV consumption, marital status, clothing size, and purchasing habits, from which they make predictions on health costs, in order to spot health issues in their clients. It is controversial whether these predictions are currently being used for pricing.[90]
+
+Internet of things (IoT)
+Main article: Internet of things
+Further information: Edge computing
+Big data and the IoT work in conjunction. Data extracted from IoT devices provides a mapping of device inter-connectivity. Such mappings have been used by the media industry, companies, and governments to more accurately target their audience and increase media efficiency. The IoT is also increasingly adopted as a means of gathering sensory data, and this sensory data has been used in medical,[91] manufacturing[92] and transportation[93] contexts.
+
+Kevin Ashton, the digital innovation expert who is credited with coining the term,[94] defines the Internet of things in this quote: "If we had computers that knew everything there was to know about things—using data they gathered without any help from us—we would be able to track and count everything, and greatly reduce waste, loss, and cost. We would know when things needed replacing, repairing, or recalling, and whether they were fresh or past their best."
+
+Information technology
+Especially since 2015, big data has come to prominence within business operations as a tool to help employees work more efficiently and streamline the collection and distribution of information technology (IT). The use of big data to resolve IT and data collection issues within an enterprise is called IT operations analytics (ITOA).[95] By applying big data principles into the concepts of machine intelligence and deep computing, IT departments can predict potential issues and prevent them.[95] ITOA businesses offer platforms for systems management that bring data silos together and generate insights from the whole of the system rather than from isolated pockets of data.
